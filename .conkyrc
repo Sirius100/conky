@@ -1,5 +1,16 @@
 -- vim: ts=4 sw=4 noet ai cindent syntax=lua
 
+[
+[],
+[   { "full_text": "Home 84.0 Gb Free", "color": "#FFFF00"},
+    { "full_text": "RAM 32%", "color": "#FF0000"},],
+    
+    
+[   { "full_text": "Home 84.0 Gb Free", "color": "#00FFFF"},
+    { "full_text": "Home 84.0 Gb Free", "color": "#FF00FF"},],    
+    
+]  
+
 
 conky.config = {
     alignment = 'top_right',
